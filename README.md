@@ -21,7 +21,13 @@ The following **optional** features are implemented:
 - [x] Add UI flair
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/ef08b9cc6fe349afb99f20b1648e98cd">
+    </a>
+    <a href="https://www.loom.com/share/ef08b9cc6fe349afb99f20b1648e98cd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ef08b9cc6fe349afb99f20b1648e98cd-7e7190335bbb4d27-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
