@@ -6,12 +6,18 @@
 //
 
 import SwiftUI
+import FirebaseCore
 
 @main
 struct Project6_TranslateMeApp: App {
+    
+    init() {
+        FirebaseApp.configure()
+    }
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(isMocked: false)
         }
     }
 }
