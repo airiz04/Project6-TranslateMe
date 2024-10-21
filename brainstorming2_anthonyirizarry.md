@@ -26,8 +26,8 @@ This format is here to give a base to go off of, but feel free to change the wor
 **Why:** We are building this app to enhance social connections through music and allow users to share their music preferences with others on the platform.
 **Challenges:** Potential challenges include managing user permissions for adding/removing songs and ensuring a smooth, real-time collaborative experience.
 
-## App Idea 5: CrazyCarts
-**What:** CrazyCarts is an app where users can rent go carts for a limited amount of time similar to Lime or Bird.
-**Who:** The app is targeted for users who would like to get around a city faster than on the scooters like Lime. 
-**Why:** We are building this app to help those who would like a bit faster transportation around urban areas by using go carts. 
-**Challenges:** Transportation Applications require some infrastrcuture which may be complicated. 
+## App Idea 5: GratiLog
+**What:** Gratilog is an app where users can write down three things they're grateful for each day. The app encourages mindfulness and positivity by letting users reflect on their daily blessings.
+**Who:** The app is targeted for anyone looking to improve their mental well-being, specifically those who want to incorporate mindfulness practices into their daily routine. This could include teens, adults, or even older adults looking for a digital way to journal. 
+**Why:** Gratitude journaling has been shown to boost happiness, reduce stress, and improve overall mental health. This app offers a simple, accessible tool to make daily journaling easy and consistent, while also providing users with a place to track their thoughts over time.
+**Challenges:** Balancing a minimalist interface with helpful features like tagging, image uploads, or progress tracking without overwhelming users.
