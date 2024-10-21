@@ -26,8 +26,8 @@ This format is here to give a base to go off of, but feel free to change the wor
 **Why:** We are building this app to enhance social connections through music and allow users to share their music preferences with others on the platform.
 **Challenges:** Potential challenges include managing user permissions for adding/removing songs and ensuring a smooth, real-time collaborative experience.
 
-## App Idea 5: (app name) (one of our group members still needs to submit their idea)
-**What:** (app name) is an app...
-**Who:** The app is targeted at...
-**Why:** We are building this app to...
-**Challenges:** Potential challenges include...
+## App Idea 5: CrazyCarts
+**What:** CrazyCarts is an app where users can rent go carts for a limited amount of time similar to Lime or Bird.
+**Who:** The app is targeted for users who would like to get around a city faster than on the scooters like Lime. 
+**Why:** We are building this app to help those who would like a bit faster transportation around urban areas by using go carts. 
+**Challenges:** Transportation Applications require some infrastrcuture which may be complicated. 
